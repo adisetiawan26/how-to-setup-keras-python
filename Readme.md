@@ -52,3 +52,8 @@ jupyter-lab
 ## Use the Documentation
 
 https://keras.io/getting_started/intro_to_keras_for_researchers/
+
+Here are some python project examples:
+
+- https://keras.io/examples/vision/image_classification_from_scratch/
+- more on https://keras.io/examples/
